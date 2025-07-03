@@ -1,25 +1,12 @@
-void	descriptor(int interval, char c, int alphabet)
-{
-	char	*mini_alphabet = "abcdefghijklmnopqrstuvwxyz";
-	char	*alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+class descriptor {
+	// penser aux CharacterSet
 
-	if (alphabet == 1)
-	{
-		if 
-		print("%c\n", );
-	}
 }
 
-int	main(int ac, char **av)
+void	main(string []av)
 {
-	if (ac != 3)
-		print ("I can't descript it, you forgot an argument\n");
-	else
-	{
-		for (int i = 0; av[1][i]; i++)
-		{
-			if ("a" <= av[1][i] <= 'z')
-				descriptor(av[1][i]);
-		}
-	}
+	// descriptor	decript;
+
+	// je suis juste un golem
+
 }
